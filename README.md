@@ -2,7 +2,7 @@
 # Web make by Tyler Hoang - Hoang Anh Tu
 // Username Github Tyler Ultra
 // Nếu có nhu cầu có thể fork về. Re-write bị lỗi mình sẽ không chịu trách nhiệm
-# *Cần sourcecode vui lòng inbox m.me/HoangAnhTu.3912
+# * Cần sourcecode vui lòng inbox m.me/HoangAnhTu.3912
 
 <!DOCTYPE html>
 <html>
