@@ -10,7 +10,7 @@
 <body>
   
   <p>Coder noname - Creator Tyler Hoang</p>
-    <img src="images/sukuna.gif" alt="🐶">
+    <img src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" alt="🐶">
   <p>Contact:</p>
   <a href="https://fb.com/hoanganhtu.3912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yotsuba.kawaii.2608" height="30" width="40" /></a>
 <a href="https://instagram.com/tylerhoang_0309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikusosweet" height="30" width="40" /></a>
