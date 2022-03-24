@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h2>Web làm theo yêu cầu cô giáo nên chắc không nói gì thêm >< </h2>
+  
   <p>Coder noname - Creator Tyler Hoang</p>
     <img src="images/sukuna.gif" alt="🐶">
   <p>Contact:</p>
